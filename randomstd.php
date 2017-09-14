@@ -7,7 +7,7 @@
 			$serverName = "localhost";
 			$userName = "topspinp_fn";
 			$userPassword = "102404320184320";
-			$dbName = "topspinp_fn";
+			$dbName = "dfjhdkghdfs";
 
 			$conn = mysqli_connect($serverName,$userName,$userPassword,$dbName);
 			mysqli_set_charset($conn,"utf8");
